@@ -1,2 +1,0 @@
-# wenna
-loja ecommerce
